@@ -41,10 +41,10 @@ Footer
 
 TWO TYPES OF EXPORT AND IMPORT
 
-- Default EXPORT/IMPORT
-  export default Component ;
-  import Compnent from "Path";
+- Default EXPORT/IMPORT :
+  > export default Component ;
+  > import Compnent from "Path";
 
-- Named Export/Import
-  export const Component;
-  import {Component} from "Path"
+- Named Export/Import :
+  > export const Component;
+  > import {Component} from "Path"
